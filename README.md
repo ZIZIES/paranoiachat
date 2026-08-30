@@ -1,2 +1,9 @@
 # paranoiachat
-a chatroom for really paranoid people. written by 2 idiots (if mason agrees and if your reading this he did because idk react)
+
+
+## we had to call off paranoiachat.
+
+there was a big concern for illegal things to be distributed (i cant name because some are so disgusting)
+there was no way to moderate an e2e encrypted p2p connection.
+
+this is really sad for atleast me because it was my first good idea
